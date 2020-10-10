@@ -1,0 +1,1 @@
+main folder contains the python file. It needs a data file in the DataFiles folder to run. Selected results can be found in the Results folder. A copy of the project report is also in the main folder.
